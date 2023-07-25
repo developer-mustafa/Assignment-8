@@ -1,6 +1,5 @@
 // pages/Home.js
 
-
 const Home = () => {
   return (
     <div className="p-4">
@@ -12,8 +11,7 @@ const Home = () => {
         Tailwind CSS.
       </p>
       <p>
-        You can use the navigation bar above to go to the "Income" or "Expense"
-        pages and start tracking your income and expenses.
+        developed by Mustafa Rahman
       </p>
     </div>
   );

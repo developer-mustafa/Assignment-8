@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Additional styles for responsive navbar */
+@media (max-width: 768px) {
+  .navbar ul {
+    flex-direction: column;
+  }
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
